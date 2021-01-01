@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/happynewyear2021/static/js/main.59d0d4a4.chunk.js",
+    "main.js.map": "/happynewyear2021/static/js/main.59d0d4a4.chunk.js.map",
+    "runtime-main.js": "/happynewyear2021/static/js/runtime-main.5a70daa5.js",
+    "runtime-main.js.map": "/happynewyear2021/static/js/runtime-main.5a70daa5.js.map",
+    "static/js/2.1bd1d849.chunk.js": "/happynewyear2021/static/js/2.1bd1d849.chunk.js",
+    "static/js/2.1bd1d849.chunk.js.map": "/happynewyear2021/static/js/2.1bd1d849.chunk.js.map",
+    "index.html": "/happynewyear2021/index.html",
+    "static/js/2.1bd1d849.chunk.js.LICENSE.txt": "/happynewyear2021/static/js/2.1bd1d849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a70daa5.js",
+    "static/js/2.1bd1d849.chunk.js",
+    "static/js/main.59d0d4a4.chunk.js"
+  ]
+}
